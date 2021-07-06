@@ -1,0 +1,29 @@
+#str{
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 430px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+#btn{
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-left: 27%;
+    font-size: 20px;
+    background-color: cadetblue;
+    color: #fff;
+}
+
+#btn:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
+#output{
+    margin-left: 37%;
+    padding-top: 20px;
+    font-weight:bolder;
+}
